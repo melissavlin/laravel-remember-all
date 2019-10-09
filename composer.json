@@ -1,5 +1,5 @@
 {
-    "name": "barchart/laravel-remember-all",
+    "name": "melissavlin/laravel-remember-all",
     "description": "A Laravel session driver to remember all devices a user has logged in with.",
     "keywords": [
         "laravel",
